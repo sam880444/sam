@@ -8,7 +8,7 @@
 
 import Foundation
 
-print("Hello, World!")
+print("Hello, sam")
 
 var a = Int.max
 print(a)
